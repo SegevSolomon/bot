@@ -1,0 +1,22 @@
+{
+    "typeWebhook": "incomingMessageReceived",
+    "instanceData": {
+        "idInstance": 7103885121,
+        "wid": "972584105433@c.us",
+        "typeInstance": "whatsapp"
+    },
+    "timestamp": 1702417832,
+    "idMessage": "EEA24AAECDA5E8A0EC6AE11947D2F236",
+    "senderData": {
+        "chatId": "972535895127@c.us",
+        "chatName": "News Desk",
+        "sender": "972584105433@c.us",
+        "senderName": "News Desk"
+    },
+    "messageData": {
+        "typeMessage": "textMessage",
+        "textMessageData": {
+            "textMessage": "1"
+        }
+    }
+}
